@@ -14,7 +14,6 @@ Welcome to my digital workspace! I am passionate about architecting intelligent 
 - **Artificial Intelligence:** Agentic Workflows, LLMs, RAG, On-device AI Models
 - **Full-Stack Development:** Python (FastAPI), JavaScript (React, Node.js, Express), Flutter
 - **DevOps & Architecture:** Docker, GitHub Actions, CI/CD Pipelines, Stateless Architectures
-- **Security & Core:** Cryptography (RSA, ECC, AES), Offensive Security, Advanced DSA
 
 ---
 ⚡ *Always open to collaborating on enterprise-scale architectures, open-source AI projects, and innovative robotics integrations.*
